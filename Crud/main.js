@@ -90,7 +90,7 @@ function showData() {
     table += `
         
          <tr>
-                <td>${i}</td>
+                <td>${i+1}</td>
                 <td>${dataPro[i].title}</td>
                 <td>${dataPro[i].price}</td>
                 <td>${dataPro[i].taxes}</td>
